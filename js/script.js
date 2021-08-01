@@ -4,6 +4,7 @@ function pizza(name) {
     this.pizzaName = name;
 }
 
+
 pizza.prototype.nameSize = function() {
     if (this.pizzaName === "Chicken Hawaiian.") {
         return "Chicken Hawaiian.";
