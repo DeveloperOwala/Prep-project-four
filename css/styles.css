@@ -52,7 +52,7 @@ h3 {
 
 .orders {
     height: 620px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("");
+    background-image: linear-gradient(rgba(161, 102, 102, 0.5),rgba(161, 102, 102, 0.5)), url("");
     background-size: cover;
     background-attachment: fixed;
     position: relative;
