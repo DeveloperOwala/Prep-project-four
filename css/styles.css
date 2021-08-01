@@ -52,7 +52,7 @@ h3 {
 
 .orders {
     height: 620px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.7)), url("../assets/backgrounds/What-are-your-orders.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("");
     background-size: cover;
     background-attachment: fixed;
     position: relative;
@@ -117,8 +117,6 @@ p {
     height: 100px;
   }
 }
-
-
 
 .site-footer
 {
