@@ -14,7 +14,7 @@ html {
 }
 
 #nav-bg{
-  background-color: #27272b;
+  background-color: green;
 }
 
 .welcome {
@@ -23,11 +23,11 @@ html {
 }
 
 li>a {
-    color: seashell;
+    color: white;
 }
 
 li > a:hover {
-    color: red;
+    color: yellow;
 }
 
 .pizza-waver {
