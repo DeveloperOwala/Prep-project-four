@@ -2,7 +2,7 @@ html {
     scroll-behavior: smooth;
 }
 
-.main-page {
+.body{
     background-image: url("../assets/backgrounds/welcome.jpg");
     background-size: cover;
     background-position: center;
