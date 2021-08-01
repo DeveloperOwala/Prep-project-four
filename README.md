@@ -1,8 +1,9 @@
-# {My Studio Portfolio}
-#### {This web application is a studio for DELANI}, {23/07/2021}
+# {Pizza Mtaani}
+#### {This web application is a online platform for ordering Pizza}, {30/07/2021}
 #### By **{Erick Otieno Okumu}**
 ## Description
-{ This web application is a studio for DELANI. The website has a list of previous projects that has been handled by the developer and the suggestion box for improvement. }
+{ Pizza Mtaani is a leading pizza outlet in Kayole Kenya serving several Nairobi eastlands
+residents by providing efficient way of placing an order through online application!. }
 ## Setup/Installation Requirements
 * Download an .exe file.
 * Locate and double-click the .exe file. (It will usually be in your Downloads folder.)
@@ -13,11 +14,14 @@
 ## link to live site on GitHub Pages
 {<a href="https://developerowala.github.io/Prep-project-three/"> Click here</a>}
 ## Known Bugs
-{This application is responsive to different device screen sizes though developers are encouraged to improve the display of this web page to devices that are not responding to this particular application}
+{Other developers should work on deploying this web application to mobile application}
 ## Technologies Used
-{  .Javascript
+{ 
     . JQUERY
-    . Bootrap
+    . Bootsrap
+    .Javascript
+    .HTML
+    .CSS
    }
 ## Support and contact details
 {Email Contact: otienoerick46@gmail.com}
