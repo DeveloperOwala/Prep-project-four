@@ -6,24 +6,24 @@ function pizza(name) {
 
 
 pizza.prototype.nameSize = function() {
-    if (this.pizzaName === "Chicken Hawaiian.") {
-        return "Chicken Hawaiian.";
-    }else if(this.pizzaName === "Cheese Burger.") {
-        return "Cheese Burger.";
-    }else if(this.pizzaName === "Meat Deluxe.") {
-        return "Meat Deluxe.";
-    }else if(this.pizzaName === "Chicken Macon BBQ.") {
-        return "Chicken Macon BBQ.";
-    }else if(this.pizzaName === "Chicken & Beef Pepperoni.") {
-        return "Chicken & Beef Pepperoni.";
-    }else if(this.pizzaName === "Veg Feast.") {
-        return "Veg Feast.";
-    }else if(this.pizzaName === "Roast Veg & Feta.") {
-        return "Roast Veg & Feta.";
-    }else if(this.pizzaName === "Spicy Boerewors.") {
-        return "Spicy Boerewors.";
+    if (this.pizzaName === "Cheeseburger.") {
+        return "Cheeseburger.";
+    }else if(this.pizzaName === "Meat-Deluxe.") {
+        return "Meat-Deluxe.";
+    }else if(this.pizzaName === "Hawaiian-BBQ.") {
+        return "Hawaiian-BBQ.";
+    }else if(this.pizzaName === "Crispy pizza.") {
+        return "Crispy pizza.";
+    }else if(this.pizzaName === "Stuffed-pizza.") {
+        return "Stuffed-pizza.";
+    }else if(this.pizzaName === "Gluten-free.") {
+        return "Gluten-free.";
+    }else if(this.pizzaName === "veggie-feast.") {
+        return "veggie-feast.";
+    }else if(this.pizzaName === "Meat-Deluxe.") {
+        return "Meat-Deluxe.";
     }else {
-        alert("Please select a pizza type to continue");
+        alert("You MUST choose the pizza category");
     };
 }
 
