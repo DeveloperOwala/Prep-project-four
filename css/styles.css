@@ -59,6 +59,10 @@ h3 {
     background-position: center;
     background-repeat: no-repeat;
 }
+.card-img-top{
+  height: 260px;
+  width: 330px;
+}
 
 .offers {
   font-family: 'Ultra', serif;
