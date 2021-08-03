@@ -27,4 +27,4 @@ residents by providing efficient way of placing an order through online applicat
 {Email Contact: otienoerick46@gmail.com}
 ### License
 *{MIT License.  See below for more details on licensing.}*
-Copyright (c) {2021} **{Owala Developers & Co. Company}**
+Copyright (c) {2021} **{Owala Developers & Co. Company}**# SOLAR-MTAANI-GROUP
